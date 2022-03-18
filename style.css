@@ -1,0 +1,61 @@
+body{
+    background-color: bisque;
+    font-family: Verdana;
+    margin: auto;
+    width: 900px
+}
+
+#title, .subtitle, .posttitle{
+    color:rgb(7, 7, 7);
+    font-family: Verdana;
+}
+
+#title{
+    font-family: Verdana;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.posttitle{
+    font-size: 16px;
+    font-style: italic;
+    text-align: center;
+}
+
+.post{
+    background-color: antiquewhite;
+    padding: 10px;
+    border: 3px solid black;
+    margin-right: 600px;
+    border-radius: 5px;
+
+}
+
+.amandaimage{
+    margin-bottom: 15px;
+    border-radius: 150px;
+    margin: auto;
+}
+
+.lista{
+    text-transform: uppercase;
+    font-family: Verdana;
+    font-weight: bold;
+    color: black;
+}
+
+.linkedin{
+    list-style-image: url("linkedin.png");
+}
+
+.email{
+    list-style-image: url("gmail.png");
+}
+
+.github{
+        
+    list-style-image: url("giticon.png");
+
+    }
+    
